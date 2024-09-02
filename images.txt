@@ -1,4 +1,2 @@
-zabbix/zabbix-web-nginx-mysql:latest
-zabbix/zabbix-server-mysql:latest
-zabbix/zabbix-agent:latest
-
+kube-webhook-certgen:v1.4.3
+controller:v1.11.2
