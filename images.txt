@@ -1,2 +1,4 @@
-registry.k8s.io/ingress-nginx/controller:v1.11.2
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
+registry.inspurcloud.cn/devops-cicd/postgres:v1
+registry.inspurcloud.cn/devops-cicd/busybox:v1
+registry.inspurcloud.cn/devops-cicd/sonarqube:10.1.0-community
+registry.inspurcloud.cn/devops-cicd/jenkins:2.452-jdk17
